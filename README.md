@@ -4,6 +4,8 @@
 
 💡 Atualmente aprendendo **HTML** e **JavaScript**  
 
+---
+
 ## 🎓 Formações e 🏅 Certificações
 
 <details>
