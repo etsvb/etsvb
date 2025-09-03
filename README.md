@@ -4,7 +4,21 @@
 
 💡 Atualmente aprendendo **HTML** e **JavaScript**  
 
-🎓 Formada em **Técnico em Redes de Computadores**  
+## 🎓 Formações e 🏅 Certificações
+
+<details>
+  <summary><strong>🎓 Formações</strong></summary>
+
+- **Técnico em Redes de computadores**  
+  _Escola Tec. Estadual Professor Lucilo Ávila Pessoa. • 2020 — 2022 • Recife/PE_  
+  **Destaques:** Monitora do Laboratório de Informática
+</details>
+
+<details>
+  <summary><strong>🏅 Certificações</strong></summary>
+</details>
+
+---
 
 📌 Apaixonada por tecnologia, programação e pelo constante aprendizado  
 
