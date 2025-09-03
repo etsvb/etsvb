@@ -26,7 +26,6 @@
 
 ## 🚀 Tecnologias que estou aprendendo  
 - HTML5  
-- CSS3  
 - JavaScript  
 
 ---
