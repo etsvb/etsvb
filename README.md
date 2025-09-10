@@ -2,8 +2,6 @@
 
 <img src="https://i.pinimg.com/originals/fd/7e/ea/fd7eead885ce1f0bba7cb2df6e3bf5c5.gif" alt="gif-estudante" width="30"/>  Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)
 
-💡 Atualmente aprendendo **HTML** e **JavaScript**  
-
 ---
 
 ## 🎓 Formações e 🏅 Certificações
