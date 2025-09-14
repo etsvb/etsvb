@@ -23,8 +23,7 @@
 📌 Apaixonada por tecnologia, programação e pelo constante aprendizado  
 
 ## 🚀 Tecnologias que estou aprendendo  
-- HTML5  
-- JavaScript  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ---
 
@@ -36,6 +35,12 @@
 ---
 
 ## 📫 Onde me encontrar  
-- <img src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif" alt="gif-estudante" width="30"/> erichataina@gmail.com
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erichataina@gmail.com) 
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=etsvb&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=etsvb&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=etsvb&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
