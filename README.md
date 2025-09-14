@@ -42,7 +42,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=etsvb&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=etsvb&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etsvb&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<img src="http://www.w3.org/2000/svg" width="880"/>
   
 ---
