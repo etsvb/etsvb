@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/736x/f0/51/45/f051457576f8e62a9d0a9906b09f3f34.jpg" alt="gif-estudante" width="30"/> Olá, eu sou a Ericha Barbosa!  
+#  Olá, eu sou a Ericha Barbosa!  
 
 <img src="https://i.pinimg.com/originals/fd/7e/ea/fd7eead885ce1f0bba7cb2df6e3bf5c5.gif" alt="gif-estudante" width="30"/>  Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)
 
