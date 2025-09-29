@@ -22,7 +22,7 @@
 
 📌 Apaixonada por tecnologia, programação e pelo constante aprendizado  
 
-##  <https://i.pinimg.com/originals/d7/48/b2/d748b25ce140561d9e0a918cab27763e.gif" width="30"/>  Tecnologias que estou aprendendo  
+##  <"https://i.pinimg.com/originals/d7/48/b2/d748b25ce140561d9e0a918cab27763e.gif" width="30"/>  Tecnologias que estou aprendendo  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ---
