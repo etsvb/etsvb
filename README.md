@@ -3,13 +3,6 @@
  <img src="https://i.pinimg.com/originals/fd/7e/ea/fd7eead885ce1f0bba7cb2df6e3bf5c5.gif" alt="gif-estudante" width="30"/>  Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)
 
 ---
-<div align="center">
-  <a href="https://github.com/etsvb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etsvb&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etsvb&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
----
 
 ##  <img src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif" alt="gif-estudante" width="20"/> Formações e Certificações
 
@@ -24,6 +17,14 @@
 <details>
   <summary><strong>🏅 Certificações</strong></summary>
 </details>
+
+---
+
+<div align="center">
+  <a href="https://github.com/etsvb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etsvb&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etsvb&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 ---
 
