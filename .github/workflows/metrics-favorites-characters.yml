@@ -1,28 +1,27 @@
-name: Metrics Favorites Characters
-
+name: Generate AniList Characters Metrics
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Arquivo de saída
+          filename: metrics.anilist.characters.svg
 
-          # --------- ANIList plugin ---------
+          # Nada da base
+          base: ""
+
+          # Plugin AniList
           plugin_anilist: yes
-          plugin_anilist_user: "etsvb"
-          plugin_anilist_token: ${{ secrets.ANILIST_TOKEN }}
+          plugin_anilist_sections: characters
 
-          # Mostrar APENAS personagens favoritos
-          plugin_anilist_sections: favorites
-          plugin_anilist_favorites: characters
+          # Quantidade máxima de personagens
           plugin_anilist_limit_characters: 22
-          filename: anilist-characters.svg
+
+          token: ${{ secrets.METRICS_TOKEN }}
