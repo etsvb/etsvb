@@ -1,28 +1,28 @@
 name: Metrics
 
 on:
-  push:
   schedule:
-    - cron: "0 0 * * *"  # atualiza diariamente à meia-noite UTC (opcional)
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  metrics:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Run lowlighter/metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          template: classic
-          base: header, repositories
-          plugins: anilist
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # --------- ANIList plugin ---------
           plugin_anilist: yes
           plugin_anilist_user: "etsvb"
-          plugin_anilist_medias: "anime,manga"
-          plugin_anilist_sections: "favorites"
-          plugin_anilist_limit: 10
-          plugin_anilist_shuffle: yes
+          plugin_anilist_token: ${{ secrets.ANILIST_TOKEN }}
+
+          # Mostrar somente os personagens favoritos
+          plugin_anilist_favorites: characters
+
+          # Nome do arquivo gerado
+          filename: anilist-characters.svg
