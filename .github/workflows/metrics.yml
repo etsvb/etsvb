@@ -1,9 +1,12 @@
-name: GitHub Metrics (AniList)
+name: Metrics
 
 on:
   push:
   schedule:
     - cron: "0 0 * * *"  # atualiza diariamente à meia-noite UTC (opcional)
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
