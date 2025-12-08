@@ -1,4 +1,4 @@
-name: metrics-favorites-characters.yml
+name: metrics-favorites-characters
 
 # permite rodar manualmente e também agendamento diário (opcional)
 on:
