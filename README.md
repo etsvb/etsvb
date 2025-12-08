@@ -1,34 +1,35 @@
 #  <img src="https://i.pinimg.com/originals/64/f2/4a/64f24a2aec624ffb36ece56bda58d9ce.gif" alt="gif-estudante" width="100"/> Olá, eu sou a Ericha Barbosa!
- 
-  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erichataina@gmail.com) 
   
-  <img src="https://i.pinimg.com/originals/fd/7e/ea/fd7eead885ce1f0bba7cb2df6e3bf5c5.gif" alt="gif-estudante" width="30"/>  Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)
+```python
+print("Hello, World!. Get to know me a little better.")
+```
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+**Contacts:**
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erichataina@gmail.com)
 
 ---
 
-##  <img src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif" alt="gif-estudante" width="20"/> Formações e Certificações
+## <img src="https://64.media.tumblr.com/6c1e2af2ddcb3c6e941953c8cab580b7/e579adb8e7c0333f-21/s640x960/89b01d9839e8d272c66831c908062945199ab9ce.gifv" width="40"/> About me
+  
+  <img src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif" alt="gif-estudante" width="20"/> Estudante de **Análise e Desenvolvimento de Sistemas** (2º período)
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+  
+  ## 🎓 Formações:
 
-<details>
-  <summary><strong>🎓 Formações</strong></summary>
+ - **Técnico em Redes de computadores** 
 
-- **Técnico em Redes de computadores**  
-  _Escola Tec. Estadual Professor Lucilo Ávila Pessoa. • 2020 — 2022 • Recife/PE_  
+_Escola Tec. Estadual Professor Lucilo Ávila Pessoa. • 2020 — 2022 • Recife/PE_  
   **Destaques:** Monitora do Laboratório de Informática
-</details>
+ 
+## 🏅 Certificações:
 
-<details>
-  <summary><strong>🏅 Certificações</strong></summary>
-</details>
+- **Desenvolvimento Back-End Python**
+
+_Alura • Em andamento._
 
 ---
-
-<div align="center">
-  <a href="https://github.com/etsvb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etsvb&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etsvb&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
 
 <p align="center">
  <img src="https://github.com/c33leron/c33leron/blob/main/assets/github-snake.svg" alt="snake" width="1000"/>
