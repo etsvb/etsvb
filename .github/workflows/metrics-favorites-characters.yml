@@ -1,4 +1,4 @@
-name: metrics-favorites-characters
+name: Generate AniList favorite characters (Metrics)
 
 # permite rodar manualmente e também agendamento diário (opcional)
 on:
