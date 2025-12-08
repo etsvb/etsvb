@@ -21,8 +21,8 @@ jobs:
           plugin_anilist_user: "etsvb"
           plugin_anilist_token: ${{ secrets.ANILIST_TOKEN }}
 
-          # Mostrar somente os personagens favoritos
+          # Mostrar APENAS personagens favoritos
+          plugin_anilist_sections: favorites
           plugin_anilist_favorites: characters
 
-          # Nome do arquivo gerado
           filename: anilist-characters.svg
