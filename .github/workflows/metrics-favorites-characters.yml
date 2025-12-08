@@ -1,0 +1,45 @@
+name: Favorites characters
+
+# permite rodar manualmente e também agendamento diário (opcional)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+# permite que o action escreva arquivos no repo (necessário para commitar o SVG)
+permissions:
+  contents: write
+
+jobs:
+  generate-favorites-characters:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate AniList favorite characters (Metrics)
+        uses: lowlighter/metrics@latest
+        with:
+          # use o token interno do GitHub (não precisa criar secret para isso)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # arquivo gerado
+          filename: metrics.plugin.anilist.characters.svg
+
+          # deixa o "base" vazio (como você queria)
+          base: ""
+
+          # ativa o plugin AniList
+          plugin_anilist: "yes"
+
+          # mostrar apenas a seção de favoritos
+          plugin_anilist_sections: "favorites"
+
+          # especifica que os favoritos devem ser characters
+          plugin_anilist_favorites: "characters"
+
+          # limite de personagens a mostrar
+          plugin_anilist_limit_characters: 22
+
+          # OBRIGATÓRIO: coloque seu usuário AniList aqui (ex: "Ericha")
+          plugin_anilist_user: "etsvb"
+
+          # Opcional: se precisar de um token do AniList, crie secret ANILIST_TOKEN e use:
+          # plugin_anilist_token: ${{ secrets.ANILIST_TOKEN }}
